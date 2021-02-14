@@ -18,6 +18,9 @@ This is all likely extremely convoluted because I could have just dumped the ass
 ## Which Version?
 
  - Japanese 1.0 (Kamigami no Triforce) dumped from my own personal cart for this project.
+ 
+## How Many Colors?
+1572
 
 ## How Accurate Do You Think It Is?
 I'm going to guess around 95% accurate and here is why:
