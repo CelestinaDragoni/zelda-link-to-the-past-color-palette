@@ -46,3 +46,4 @@ These are the keyframes from my gameplay. If you want to regen the palette yours
 No license, this is free for all who want to use it. Get creative and have fun with it.
 
 ## Palette Preview
+![Preview](.github/preview.png)
